@@ -1,0 +1,108 @@
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.AssemblyReference.cache
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.cache
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.lref
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.exe
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.deps.json
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.runtimeconfig.json
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.baml
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.g.resources
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfoInputs.cache
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfo.cs
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CopyComplete
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\refint\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.genruntimeconfig.cache
+C:\Users\Acer NItro 5\Desktop\WPF\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\ref\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.exe
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.deps.json
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.runtimeconfig.json
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.AssemblyReference.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.lref
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.baml
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.g.resources
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfoInputs.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfo.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CopyComplete
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\refint\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.genruntimeconfig.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\ref\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.exe
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.deps.json
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.runtimeconfig.json
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.AssemblyReference.cache
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.cache
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.lref
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.baml
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.g.resources
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfoInputs.cache
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfo.cs
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CopyComplete
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\refint\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.genruntimeconfig.cache
+C:\Users\Acer NItro 5\Desktop\Real\Project_GUI\Project_GUI\obj\Debug\net6.0-windows\ref\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.exe
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.deps.json
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.runtimeconfig.json
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\bin\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.AssemblyReference.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI_MarkupCompile.lref
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\AddUserWindow.baml
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.g.resources
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfoInputs.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.AssemblyInfo.cs
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.csproj.CopyComplete
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\refint\Project_GUI.dll
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.pdb
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\Project_GUI.genruntimeconfig.cache
+C:\Users\Acer NItro 5\Desktop\Project GUI\Project_GUI_4253\Project_GUI\obj\Debug\net6.0-windows\ref\Project_GUI.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBacDO6VbV3ynLJBYs/0Bk4cKdbIOpHCVR5KszbL6I272GWKzdzxZoQvJoFL/aRPf9v6XRfaUeQe0/Bg3rS3TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer NItro 5\\Desktop\\Project GUI\\Project_GUI_4253\\Project_GUI\\Project_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer NItro 5\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

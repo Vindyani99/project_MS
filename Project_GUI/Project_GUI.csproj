@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="12.jpg" />
+    <None Remove="6481a344af1f5.jpg" />
+    <None Remove="b586ea3f7939a6742286beb56611ba1d.jpg" />
+    <None Remove="e-learning-concept-online-education-login-registration-screen-design-189538398.jpg" />
+    <None Remove="education_background.jpg" />
+    <None Remove="image\1.png" />
+    <None Remove="image\6.png" />
+    <None Remove="image\registration-hand-pressing-button-interface-blue-background-49410297.jpg" />
+    <None Remove="registration-hand-pressing-button-interface-blue-background-49410297.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="12.jpg" />
+    <Resource Include="b586ea3f7939a6742286beb56611ba1d.jpg" />
+    <Resource Include="e-learning-concept-online-education-login-registration-screen-design-189538398.jpg" />
+    <Resource Include="education_background.jpg" />
+    <Resource Include="image\1.png" />
+    <Resource Include="image\6.png" />
+    <Resource Include="image\registration-hand-pressing-button-interface-blue-background-49410297.jpg" />
+    <Resource Include="registration-hand-pressing-button-interface-blue-background-49410297.jpg" />
+  </ItemGroup>
+
+</Project>
